@@ -1,0 +1,3 @@
+[submodule "ecommerce_backend_fastapi"]
+	path = ecommerce_backend_fastapi
+	url = git@github.com:LeoFernanndes/ecommerce_backend_fastapi.git
